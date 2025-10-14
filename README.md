@@ -43,6 +43,10 @@ I am an ambitious programmer working on building my career as a Back-End Enginee
   <a href="mailto:momenabohaty@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@Syntax95" target="_blank">
+  <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 </p>
 
 ---
