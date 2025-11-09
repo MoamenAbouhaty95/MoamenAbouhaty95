@@ -3,6 +3,7 @@
 I am an entry-level Backend Engineer with strong skills in JavaScript and TypeScript, and 3 months of hands-on experience using Node.js. My programming journey began with C++ and object-oriented principles, which built a solid foundation for my development skills. I am continuously improving my problem-solving abilities and striving to become an impactful and innovative software engineer.
 
 ---
+# Certificates:
 
 [![NodeJS](https://img.shields.io/badge/NodeJS-Completed-brightgreen?style=flat-square&logo=readme)](http://ude.my/UC-265b2be4-b0f7-46af-8bd8-c6593ee72344)
 [![Git](https://img.shields.io/badge/Git-Completed-brightgreen?style=flat-square&logo=readme)](http://ude.my/UC-6c2fdae4-4ab4-4d55-971e-65f7b69327a7)
@@ -13,8 +14,9 @@ I am an entry-level Backend Engineer with strong skills in JavaScript and TypeSc
 
 
 
-<h3>When I code, I rely on</h3>
+<h3>When I code, I rely on:</h3>
 <p>
+  
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-6A0DAD?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=DEA584" />
@@ -36,11 +38,13 @@ I am an entry-level Backend Engineer with strong skills in JavaScript and TypeSc
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="MS SQL Server" src="https://img.shields.io/badge/-MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  
 </p>
 
 ---
 
-## 📫 Contact Me  
+## 📫 Contact Me:
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moamen-el-sayed-abouhaty-612901386/" target="_blank">
@@ -53,10 +57,12 @@ I am an entry-level Backend Engineer with strong skills in JavaScript and TypeSc
   <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
+
 </p>
 
 ---
 
 ## 🌟 Platforms:
+
 - [Codewars](https://www.codewars.com/users/Moamen%20Abouhaty)
 - [HackerRank](https://www.hackerrank.com/profile/codemaker95)
