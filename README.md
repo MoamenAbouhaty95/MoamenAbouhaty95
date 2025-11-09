@@ -4,10 +4,20 @@ I am an entry-level Backend Engineer with strong skills in JavaScript and TypeSc
 
 ---
 
+[![NodeJS](https://img.shields.io/badge/NodeJS-Completed-brightgreen?style=flat-square&logo=readme)](http://ude.my/UC-265b2be4-b0f7-46af-8bd8-c6593ee72344)
+[![Git](https://img.shields.io/badge/Git-Completed-brightgreen?style=flat-square&logo=readme)](http://ude.my/UC-6c2fdae4-4ab4-4d55-971e-65f7b69327a7)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Completed-blue?style=flat-square&logo=typescript&logoColor=white)](http://ude.my/UC-a7969821-7b79-42b9-ba66-72f07490474f)
+[![Rust](https://img.shields.io/badge/Rust-Completed-black?style=flat-square&logo=rust&logoColor=white)](https://www.m3aarf.com/storage/cer/7b52bda1.jpg?v=2025-11-05%2020:37:11)
+[![C#](https://img.shields.io/badge/C%23-Completed-9179E4?style=flat-square&logo=c-sharp&logoColor=white)](https://www.m3aarf.com/storage/cer/9a60faff.jpg?v=2025-11-08%2020:45:18)
+
+
+
+
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-6A0DAD?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=DEA584" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -16,7 +26,6 @@ I am an entry-level Backend Engineer with strong skills in JavaScript and TypeSc
   <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
@@ -50,3 +59,4 @@ I am an entry-level Backend Engineer with strong skills in JavaScript and TypeSc
 
 ## 🌟 Platforms:
 - [Codewars](https://www.codewars.com/users/Moamen%20Abouhaty)
+- [HackerRank](https://www.hackerrank.com/profile/codemaker95)
